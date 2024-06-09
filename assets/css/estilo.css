@@ -14,7 +14,7 @@ body {
 /* Layout */ 
 
 #area-cabecalho {
-    background-color: #f7b600;
+    background-color: #E7BBE3;
     padding: 15px;
     text-align: center;
 
@@ -73,7 +73,7 @@ a {
 }
 
 a:visited {
-    color: #f7b600;
+    color: #708AFF;
 }
 
 a:hover {
@@ -86,8 +86,15 @@ a:hover {
 }
 
 #area-cabecalho a:hover {
-    color: #f7b600;
+    color: #E7BBE3;
     background-color: #e6e6e6;
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+#area-cabecalho a {
+    padding-left: 10px;
+    padding-right: 10px;
     text-decoration: none;
 }
 
@@ -99,7 +106,7 @@ h1 {
 }
 
 h2 {
-    color: #f7b600;
+    color: #708AFF;
 }
 
 h3 {
@@ -109,7 +116,7 @@ h3 {
 }
 
 .branco {
-    color: #ccc;
+    color: #C884A6;
 }
 
 .data-postagem { 
