@@ -68,7 +68,7 @@ body {
 
 /* formatações do menu */ 
 
-a {
+a:link {
     text-decoration: none;
 }
 
@@ -80,7 +80,7 @@ a:hover {
     text-decoration: none;
 }
 
-#area-cabecalho a:visited {
+#area-cabecalho a:visited, #area-cabecalho a:link {
     color: #e6e6e6;
     padding: 12px;
 }
